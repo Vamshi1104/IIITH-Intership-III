@@ -1,258 +1,258 @@
 {
     "artciles": [
         {
-            "quiztitle":"Quiz for Experiment",
+            "quiztitle":"Quiz for Grain Size Distribution",
             "containers":"5"
         },
         {
-            "q": "Question 1",
+            "q": "A curve with a flat portion, in particle size distribution curve represent ",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "Intermediate size particle are missing",
+                "Intermediate size particles are present",
+                "Smaller size particle are present"
             ],
-            "answer": "Option 1",
-            "description": "Explanation for Question 1"
+            "answer": "Intermediate size particle are missing",
+            "description": " A curve with a flat portion represents oil in which intermediate size particle are missing."
         },
         {
-            "q": "Question 2",
+            "q": "The maximum size of fine grained soil is",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                " 0.002mm",
+                "0.75mm",
+                "0.075mm"
             ],
-            "answer": "Option 2",
-            "description": "Explanation for Question 2"
+            "answer": "0.075mm",
+            "description": "None"
         },
         {
-            "q": "Question 3",
+            "q": "A particle-size distribution curve gives us an idea about",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "Type of soil",
+                "Properties of soil",
+                "All of the mentioned"
             ],
-            "answer": "Option 3",
-            "description": "Explanation for Question 3"
+            "answer": "Type of soil",
+            "description": " A particle-size curve shows both type and gradation of the soil."
         },
         {
-            "q": "Question 4",
+            "q": "Sedimentation analysis is used only for the soil fraction finer than 75 microns.",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "True",
+                "False",
+                "Can't say"
             ],
-            "answer": "Option 1",
-            "description": "Explanation for Question 4"
+            "answer": "True",
+            "description": "None"
         },
         {
-            "q": "Question 5",
+            "q": "BOULDER:  particle  size  is  more than",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "200mm",
+                "100mm",
+                "300mm"
             ],
-            "answer": "Option 2",
-            "description": "Explanation for Question 5"
+            "answer": "300mm",
+            "description": "None"
         },
         {
-            "q": "Question 6",
+            "q": "For coarse grained soil, the particle size D10 is sometimes called as",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "Effective size and effective diameter",
+                "Uniform diameter",
+                "All of the mentioned"
             ],
-            "answer": "Option 3",
-            "description": "Explanation for Question 6"
+            "answer": "Effective size and effective diameter",
+            "description": "The size D10 is sometimes called as the effective size or effective diameter."
         },
         {
-            "q": "Question 7",
+            "q": "The shape of particle size curve, which is represented by the coefficient of curvature (Cc) is given by",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "Cc = (D30)2/D10×D40",
+                "Cc=(D40)2/D10×D30",
+                "Cc =(D30)2/D10×D60
             ],
-            "answer": "Option 3",
-            "description": "Explanation for Question 7"
+            "answer": "(D40)2/D10×D30",
+            "description": "The coefficient of curvature (Cc) is given by the equation Cc = (D40)2/D10×D30"
         },
         {
-            "q": "Question 8",
+            "q": "The coefficient of uniformity (CV) is the ratio of",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "D60 and D10",
+                "D30 and D10",
+                "D10 and D30"
             ],
-            "answer": "Option 1",
-            "description": "Explanation for Question 8"
+            "answer": "D60 and D10",
+            "description": "The coefficient of uniformity CV, is defined as the ratio of D60 and D10 i.e.CV = D60/ D10."
         },
         {
-            "q": "Question 9",
+            "q": "The curve situated at the right side of the particle size distribution curve is",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "Coarse-grained soil",
+                "Fine-grained soil",
+                "None of the mentioned"
             ],
-            "answer": "Option 2",
-            "description": "Explanation for Question 9"
+            "answer": "Coarse-grained soil",
+            "description": "The right side the particle size distribution curve shows the coarse-grained while the left shows the relatively fine-grained soil."
         },
         {
-            "q": "Question 10",
+            "q": "What is the time of settlement of coarse particle of a soil sample, of diameter 0.5? Take γ=0.905D2 and height of water tank as 5 m.",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "11.6 seconds",
+                "14 seconds",
+                "22.1 seconds"
             ],
-            "answer": "Option 1",
-            "description": "Explanation for Question 10"
+            "answer": "22.1 seconds",
+            "description": "γ=0.905(0.5)2=0.2263 m/sec Time of settlement, T=h/v =5/0.2263=22.1 seconds."
         },
         {
-            "q": "Question 11",
+            "q": "The D10 represents a size, such that _________ of the particles are finer than this size.",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "20%",
+                "60%",
+                "10%"
             ],
-            "answer": "Option 3",
-            "description": "Explanation for Question 11"
+            "answer": "10%",
+            "description": "The D10 represents a size, in mm such that 10% of the particle is finer than D10 size."
         },
         {
-            "q": "Question 12",
+            "q": "The time of settlement of the finest particle of soil sample is 15hr 20min 49sec.calculate the height of the water tank. Take D=0.01 mm, γ=0.905D2.",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "5 m",
+                "7 m",
+                "12 m"
             ],
-            "answer": "Option 1",
-            "description": "Explanation for Question 12"
+            "answer": "5 m",
+            "description": "γ=0.905(0.01) γ=9.05×10-5 t = 15hr 20min 49sec =55429 sec t=h/v 55429=h/9.05×10-5 h=55429×9.05×10-5 h = 5.000034 m."
         },
         {
-            "q": "Question 13",
+            "q": "The shape of the particle size curve is represented by",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "Effective size",
+                "Effective diameter",
+                "Co-efficient of curvature"
             ],
-            "answer": "Option 2",
-            "description": "Explanation for Question 13"
+            "answer": "Co-efficient of curvature",
+            "description": "Coefficient of the curvature Cc represent the shape of the particle size curve given by CC= (D40)2/D10×D30."
         },
         {
-            "q": "Question 14",
+            "q": " A soil sample may be well graded if",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "If it has most number of particles of same size",
+                "Excess of certain particles",
+                "Good representation of particles of all size"
             ],
-            "answer": "Option 1",
-            "description": "Explanation for Question 14"
+            "answer": "Good representation of particles of all size",
+            "description": "A soil is said to be well graded when it has a good representation of particle of all size."
         },
         {
-            "q": "Question 15",
+            "q": "Dual  symbols  are used for  the  soils  having  75 micron  passing  between",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "5 to 12%",
+                "7 to 12%",
+                "5 to 9%"
             ],
-            "answer": "Option 3",
-            "description": "Explanation for Question 15"
+            "answer": "5 to 12%",
+            "description": "None"
         },
         {
-            "q": "Question 16",
+            "q": "Dry   sieve   is  performed  for  cohesion  less  soils  if  fines  are  less  than  5%",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "True",
+                "False",
+                "Can't say"
             ],
-            "answer": "Option 2",
-            "description": "Explanation for Question 16"
+            "answer": "True",
+            "description": "None"
         },
         {
-            "q": "Question 17",
+            "q": "Wet  sieve analysis  is carried  out if  fines  are more than _____% and of  cohesive  nature.",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "10",
+                "5",
+                "7"
             ],
-            "answer": "Option 2",
-            "description": "Explanation for Question 17"
+            "answer": "7",
+            "description": "None"
         },
         {
-            "q": "Question 18",
+            "q": "Uniformity coefficient of soil is",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "<1",
+                "<=1",
+                ">1"
             ],
-            "answer": "Option 1",
-            "description": "Explanation for Question 18"
+            "answer": "<=1",
+            "description": "None"
         },
         {
-            "q": "Question 19",
+            "q": "Stokes law is valid only if the size of particle is",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "< 0.0002mm",
+                "> 0.2mm ",
+                " Between 0.2mm and 0.0002mm"
             ],
-            "answer": "Option 3",
-            "description": "Explanation for Question 19"
+            "answer": " Between 0.2mm and 0.0002mm",
+            "description": "Stokes law is valid only if the size of particle is Between 0.2mm and 0.0002mm"
         },
         {
-            "q": "Question 20",
+            "q": " A flat grain size distribution curve shows a ",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "Narrow range of grain size",
+                "Wide range of grain size",
+                "Uniform grain size"
             ],
-            "answer": "Option 1",
-            "description": "Explanation for Question 20"
+            "answer": "Wide range of grain size",
+            "description": "None"
         },
         {
-            "q": "Question 21",
+            "q": "Sieve analysis is used when size of particle is",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "> 0.075mm",
+                "< 0.075mm",
+                " 4.75mm"
             ],
-            "answer": "Option 1",
-            "description": "Explanation for Question 21"
+            "answer": "> 0.075mm",
+            "description": "None"
         },
         {
-            "q": "Question 22",
+            "q": "For measuring the distribution of particle sizes in a soil sample, it is necessary to conduct different particle-size tests. ",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "True",
+                "False",
+                "Can't say"
             ],
-            "answer": "Option 1",
-            "description": "Explanation for Question 22"
+            "answer": "True",
+            "description": "None"
         },
         {
-            "q": "Question 23",
+            "q": " Sedimentation analysis is used when size of particle is ",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "> 0.75mm",
+                "< 0.075mm",
+                "4.75mm"
             ],
-            "answer": "Option 1",
-            "description": "Explanation for Question 23"
+            "answer": "< 0.075mm",
+            "description": "None"
         },
         {
-            "q": "Question 24",
+            "q": "During  shaking  the  lid  on  the  topmost  sieve  should  be  kept  tight.",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "True",
+                "False",
+                "Can't say"
             ],
-            "answer": "Option 1",
-            "description": "Explanation for Question 24"
+            "answer": "True",
+            "description": "During  shaking  the  lid  on  the  topmost  sieve  should  be  kept  tight  to  prevent  escape  of soils."
         },
         {
-            "q": "Question 25",
+            "q": "While  drying  the  soil,  the  temperature  of  the  oven  should  not  be  more  than",
             "option": [
-                "Option 1",
-                "Option 2",
-                "Option 3"
+                "90c",
+                "100c",
+                "105c"
             ],
-            "answer": "Option 1",
-            "description": "Explanation for Question 25"
+            "answer": "105c",
+            "description": "While  drying  the  soil,  the  temperature  of  the  oven  should  not  be  more  than 105  c  because higher  temperature  may  cause some  permanent change  in  the  75 fraction."
         }
     ]
 }
