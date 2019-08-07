@@ -71,7 +71,7 @@
                 "Cc=(D40)2/D10×D30",
                 "Cc =(D30)2/D10×D60
             ],
-            "answer": "(D40)2/D10×D30",
+            "answer": "Cc=(D40)2/D10×D30",
             "description": "The coefficient of curvature (Cc) is given by the equation Cc = (D40)2/D10×D30"
         },
         {
