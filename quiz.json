@@ -71,8 +71,8 @@
                 "Cc=(D40)2/D10×D30",
                 "Cc =(D30)2/D10×D60
             ],
-            "answer": "Cc = (D30)2/D10×D40",
-            "description": "The coefficient of curvature (Cc) is given by the equation Cc = (D40)2/D10×D30"
+            
+            
         },
         {
             "q": "The coefficient of uniformity (CV) is the ratio of",
